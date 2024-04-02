@@ -67,7 +67,7 @@ Use the gpt-4.
 
 ## structure
 
-![structure](./res/workflow.png)
+![structure](./assets/workflow.png)
 
 ## This example introduces how to use ChatGPT
 
