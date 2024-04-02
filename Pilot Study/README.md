@@ -10,3 +10,9 @@
 2. Inter-page non-crash functional bug denotes these bugs related to multiple GUI pages, i.e., involving a testing sequence to trigger it, with details in Figure.
 
 ![structure](./Pilot-study.png)
+
+## Bug Examples
+1. Intra-page non-crash functional bug examples as shown in Figure.
+![structure](./Bugs-visual-cue.png)
+2. Inter-page non-crash functional bug examples as shown in Figure.
+
