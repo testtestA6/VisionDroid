@@ -4,7 +4,7 @@ VisionDroid, a vison-driven approach for detecting non-crash functional bugs wit
 
 ## structure
 
-![structure](./VisionDroid Code/res/workflow.png)
+![structure](./workflow.png)
 
 # VisionDroid Source code
 
