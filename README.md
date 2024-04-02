@@ -83,7 +83,7 @@ Use the gpt-4.
 
 USE GPT-4 App Testing
 
-![structure](./assets/workflow.png)
+![structure](./workflow.png)
 
 ### usage
 
